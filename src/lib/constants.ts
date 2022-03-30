@@ -1,0 +1,7 @@
+export const CustomViewComponentName = 'custom-view-component'
+export const CustomViewBlockName = 'custom-view-block'
+export const SectionBlockName = 'section-block'
+export const TextBlockName = 'text-block'
+export const ImageBlockName = 'image-block'
+export const LinkBlockName = 'link-block'
+export const Columns2BlockName = 'columns-2-block'
