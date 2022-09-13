@@ -1,7 +1,7 @@
 {
     "name": "@youwol/grapes-basics",
     "description": "Basics components for grapes from YouWol team.",
-    "version": "0.0.2-wip",
+    "version": "0.1.0",
     "author": "greinisch@youwol.com",
     "homepage": "https://github.com/youwol/grapes-basics#README.md",
     "main": "dist/@youwol/grapes-basics.js",
